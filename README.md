@@ -1,11 +1,10 @@
-### Olá, Astronautas! 🖖👩‍🚀
+<h3 align="center"> Olá, Astronautas! </h3>
+<div align="center"> <img align="center" width=80 src="https://cdna.artstation.com/p/assets/images/images/050/392/912/original/nelson-tiapa-gif-con-telefono.gif?1654734490">  </div>
+<h4 align="center"> Bem-vindos ao meu espaço de estudo! </h4>
 
-##### Bem-vindos ao meu espaço de estudo!
+----
 
-*Lifelong learner* que sou, estou sempre explorando novas fronteiras e desbravando o desconhecido! 🚀
-Aqui você vai encontrar uma coleção dos meus projetos, experimentos e um pouquinho da minha jornada no mundo da programação.
-
-![astro](https://hyperlinking.com.br/wp-content/uploads/2023/08/astronaut.gif)
+*Lifelong learner* que sou, estou sempre explorando novas fronteiras e desbravando o desconhecido, por isso aqui você vai encontrar uma coleção dos meus projetos, experimentos e um pouquinho da minha jornada no mundo da programação. 🚀
 
 ### 👩‍💻 Sobre mim
 
