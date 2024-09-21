@@ -4,8 +4,6 @@
 
 Aqui você vai encontrar uma coleção dos meus projetos, experimentos e um pouquinho da minha jornada no mundo da programação. Sempre explorando novas fronteiras e desbravando o desconhecido! 🚀
 
-
-
 ### 👩‍💻 Sobre mim
 
 Formada em Letras, com especializações em **Design Digital** e **Produção de Textos**, agora estou em formação em **Engenharia de Software** na [42 São Paulo](https://www.42sp.org.br/). Tenho sólida experiência em **docência** e em crescimento em **desenvolvimento de software**, o que me permite aliar **habilidades técnicas** à **facilidade em ensinar** e colaborar em projetos em equipe.
@@ -37,15 +35,15 @@ Formada em Letras, com especializações em **Design Digital** e **Produção de
 ---
 
 ## 🛠️ Tecnologias
-<div style="display: inline_block">
+<p align="center">
   <img align="center" alt="Ly-C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="Ly-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ly-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ly-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ly-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />*
    <img align="center" alt="Ly-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-line.svg" />*
-</div> <br>
-<div style="display: inline_block">
+</p>
+<p align="center">
   <img align="center" alt="Ly-Linux" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Ly-Shell" height="30" width="30" src="https://bashlogo.com/img/symbol/png/full_colored_light.png">*
   <img align="center" alt="Ly-VSCode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
@@ -54,12 +52,12 @@ Formada em Letras, com especializações em **Design Digital** e **Produção de
   <img align="center" alt="Ly-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="Ly-GitHub" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Ly-GitHub" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-plain.svg">*
-</div><br>
-<div style="display: inline_block">
+</p>
+<p align="center">
   <img align="center" alt="Ly-Linux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
   <img align="center" alt="Ly-Shell" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
   <img align="center" alt="Ly-VSCode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg">
-</div>
+</p>
 
 ---
 
