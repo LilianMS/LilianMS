@@ -48,10 +48,11 @@ Formada em Letras, com especializações em **Design Digital** e **Produção de
 
 #### Ferramentas e Plataformas
 <div style="display: inline_block">
-  <img align="center" alt="Ly-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Ly-Shell" height="30" width="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
-  <img align="center" alt="Ly-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Ly-VirtualBox" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png">
+  <img align="center" alt="Ly-Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Ly-Shell" height="40" width="40" src="https://bashlogo.com/img/symbol/png/full_colored_light.png">
+  <img align="center" alt="Ly-VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Ly-VirtualBox" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png">
+  <img align="center" alt="Ly-W3C" height="40" width="40" src="https://www.w3.org/assets/logos/w3c/w3c-bars.svg">
 </div>
 
 ---
