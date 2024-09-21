@@ -36,23 +36,19 @@ Formada em Letras, com especializações em **Design Digital** e **Produção de
 
 ---
 
-### 🛠️ Tecnologias
-
-#### Linguagens de Programação
+## 🛠️ Tecnologias
 <div style="display: inline_block">
-  <img align="center" alt="Ly-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Ly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-#### Ferramentas e Plataformas
+  <img align="center" alt="Ly-C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Ly-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ly-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ly-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div> <br>
 <div style="display: inline_block">
-  <img align="center" alt="Ly-Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Ly-Shell" height="40" width="40" src="https://bashlogo.com/img/symbol/png/full_colored_light.png">
-  <img align="center" alt="Ly-VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Ly-VirtualBox" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png">
-  <img align="center" alt="Ly-W3C" height="40" width="40" src="https://www.w3.org/assets/logos/w3c/w3c-bars.svg">
+  <img align="center" alt="Ly-Linux" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Ly-Shell" height="30" width="30" src="https://bashlogo.com/img/symbol/png/full_colored_light.png">
+  <img align="center" alt="Ly-VSCode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Ly-VirtualBox" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png">
+  <img align="center" alt="Ly-W3C" height="30" width="30" src="https://www.w3.org/assets/logos/w3c/w3c-bars.svg">
 </div>
 
 ---
@@ -61,7 +57,7 @@ Formada em Letras, com especializações em **Design Digital** e **Produção de
 
 ---
 
-### 📊 Estatísticas GitHub
+##### 📊 Estatísticas GitHub
 
 <div>
   <a href="https://github.com/LilianMS">
