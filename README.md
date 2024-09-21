@@ -2,7 +2,10 @@
 
 ##### Bem-vindos ao meu espaço de estudo!
 
-Aqui você vai encontrar uma coleção dos meus projetos, experimentos e um pouquinho da minha jornada no mundo da programação. Sempre explorando novas fronteiras e desbravando o desconhecido! 🚀
+*Lifelong learner* que sou, estou sempre explorando novas fronteiras e desbravando o desconhecido! 🚀
+Aqui você vai encontrar uma coleção dos meus projetos, experimentos e um pouquinho da minha jornada no mundo da programação.
+
+####### ![astro](https://hyperlinking.com.br/wp-content/uploads/2023/08/astronaut.gif)
 
 ### 👩‍💻 Sobre mim
 
