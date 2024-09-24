@@ -32,7 +32,8 @@ Formada em Letras, com especializações em **Design Digital** e **Produção de
 - 💡 **Projetos em C**: lidando com algoritmos, estruturas de dados, e otimização de código.
 - 🚀 **Contribuições open-source**: sempre buscando colaborar e aprender com a comunidade.
 - 📚 **Leitura**: atualmente focada em **Design de Sistemas** e **Arquitetura de Software**.
-- 🌱 **Atualmente** aprendendo mais sobre **concorrência** e **multithreading** em C.
+- 🌱 **Assunto do momento:** aprendendo mais sobre **concorrência** e **multithreading** em C.
+- 💭 **Minha ansiedade falando:** MiniShell tá chegando!!!
 
 ---
 
