@@ -8,7 +8,7 @@
 
 ### 👩‍💻 Sobre mim
 
-Formada em Letras, com especializações em **Design Digital** e **Produção de Textos**, agora estou em formação em **Engenharia de Software** na [42 São Paulo](https://www.42sp.org.br/). Tenho sólida experiência em **docência** e em crescimento em **desenvolvimento de software**, o que me permite aliar **habilidades técnicas** à **facilidade em ensinar** e colaborar em projetos em equipe.
+Formada em Letras, com especializações em **Design Digital** e **Produção de Textos**, agora estou em formação em **Engenharia de Software** na  [![](https://img.shields.io/badge/%20São%20Paulo-000000?style=for-the-badge&logo=42&logoColor=white)](https://www.42sp.org.br/). Tenho sólida experiência em **docência** e em crescimento em **desenvolvimento de software**, o que me permite aliar **habilidades técnicas** à **facilidade em ensinar** e colaborar em projetos em equipe.
 
 ### 🚀 Habilidades
 
@@ -82,4 +82,6 @@ Formada em Letras, com especializações em **Design Digital** e **Produção de
     </div>
   </a>
 </div>
+
+
 
