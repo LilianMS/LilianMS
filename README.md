@@ -1,3 +1,5 @@
+https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=500&duration=4000&pause=1000&color=FF58FE&center=true&vCenter=true&width=1000&lines=Al%C3%B4%2C+Astronautas!;Lilian+falando...;Bem+vindos+ao+meu+espa%C3%A7o+de++treinamento!)](https://git.io/typing-svg)
 <div align="center"> <img align="center" width=80 src="https://cdna.artstation.com/p/assets/images/images/050/392/912/original/nelson-tiapa-gif-con-telefono.gif?1654734490">  </div>
 
@@ -83,4 +85,4 @@ Formada em Letras, com especializações em **Design Digital** e **Produção de
 </div>
 
 
-
+https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer
