@@ -41,6 +41,7 @@ Já desenvolvi projetos como **MiniShell** (parsing, exec, signals) e **Cub3D** 
 - C++ (módulos da 42)
 - Estruturas de dados, algoritmos e design de sistemas
 - GenAI para Devs e aplicações de IA
+- Docker e fundamentos de containers
 - Projetos colaborativos e open-source
 - *Ansiedade do momento:* sempre tem um projeto chegando 😅
 
@@ -68,7 +69,7 @@ Já desenvolvi projetos como **MiniShell** (parsing, exec, signals) e **Cub3D** 
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Formações
 #### Engenharia de Software:
