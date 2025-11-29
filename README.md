@@ -4,84 +4,89 @@
 <div align="center"> <img align="center" width=80 src="https://cdna.artstation.com/p/assets/images/images/050/392/912/original/nelson-tiapa-gif-con-telefono.gif?1654734490">  </div>
 
 # 
-*Lifelong learner* que sou, estou sempre explorando novas fronteiras e desbravando o desconhecido, por isso aqui você vai encontrar uma coleção dos meus projetos, experimentos e um pouquinho da minha jornada no mundo da programação. 🚀
-
-### 👩‍💻 Sobre mim
-
-Formada em Letras, com especializações em **Design Digital** e **Produção de Textos**, agora estou em formação em **Engenharia de Software** na  [![](https://img.shields.io/badge/%20São%20Paulo-000000?style=for-the-badge&logo=42&logoColor=white)](https://www.42sp.org.br/). Tenho sólida experiência em **docência** e em crescimento em **desenvolvimento de software**, o que me permite aliar **habilidades técnicas** à **facilidade em ensinar** e colaborar em projetos em equipe.
-
-### 🚀 Habilidades
-
-- **Desenvolvimento em C**: Projetos de software utilizando a linguagem C, com foco em sistemas de baixo nível e algoritmos.
-- **Desenvolvimento Web**: Criação de sites com **HTML5**, **CSS3** e **JavaScript**, seguindo os padrões W3C.
-- **Docência em programação**: Ensino de lógica de programação aplicada a jogos e aplicativos em JavaScript e React para crianças.
-- **Comunicação**: Experiência em **ensino**, com **facilidade de falar em público**, liderar equipes e coordenar projetos educacionais.
+Como **lifelong learner**, estou sempre explorando novas fronteiras na tecnologia.  
+Aqui você vai encontrar meus projetos, experimentos e registros da minha jornada em Engenharia de Software pela **42 São Paulo** — do baixo nível ao desenvolvimento moderno. 🚀
 
 ---
 
-### 📚 Experiências
+## 👩‍💻 Sobre mim
 
-- **Professora de Programação**: Ensino de lógica e desenvolvimento de jogos/apps para crianças (BYJU'S FutureSchool).
-- **Desenvolvedora Web e Designer Digital**: Desenvolvimento de sites e soluções personalizadas (LM Design Digital).
-- **Professora de Língua Portuguesa**: Ensino de produção textual e análise do discurso.
+Sou formada em **Letras**, com pós-graduação em **Design Digital** e **Produção de Textos**.  
+Atualmente, estudo **Engenharia de Software na 42SP**, com foco em **C**, **C++98**, sistemas e arquitetura de software.
 
----
-
-### 🌟 Meus interesses atuais
-
-- 💡 **Projetos em C**: lidando com algoritmos, estruturas de dados, e otimização de código.
-- 🚀 **Contribuições open-source**: sempre buscando colaborar e aprender com a comunidade.
-- 📚 **Leitura**: atualmente focada em **Design de Sistemas** e **Arquitetura de Software**.
-- 🌱 **Assunto do momento:** aprendendo mais sobre **concorrência** e **multithreading** em C.
-- 💭 **Minha ansiedade falando:** MiniShell tá chegando!!!
+Minha trajetória une **comunicação, educação e tecnologia** — o que me permite criar pontes entre sistemas complexos e pessoas.  
+Já desenvolvi projetos como **MiniShell** (parsing, exec, signals) e **Cub3D** (gráficos, raycasting), e agora avanço nos módulos de **C++**.
 
 ---
 
-## 🛠️ Tecnologias
-<p align="center">
-  <img align="center" alt="Ly-C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Ly-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ly-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ly-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ly-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />*
-   <img align="center" alt="Ly-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-line.svg" />*
-</p>
-<p align="center">
-  <img align="center" alt="Ly-Linux" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Ly-Shell" height="30" width="30" src="https://bashlogo.com/img/symbol/png/full_colored_light.png">*
-  <img align="center" alt="Ly-VSCode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Ly-VirtualBox" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png">
-  <img align="center" alt="Ly-W3C" height="30" width="30" src="https://www.w3.org/assets/logos/w3c/w3c-bars.svg">
-  <img align="center" alt="Ly-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="Ly-GitHub" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="Ly-GitHub" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-plain.svg">*
-</p>
-<p align="center">
-  <img align="center" alt="Ly-Linux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
-  <img align="center" alt="Ly-Shell" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
-  <img align="center" alt="Ly-VSCode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg">
-</p>
+## 🚀 Habilidades
+
+### 💻 Engenharia de Software
+- C (algoritmos, memória, processos, pipelines)
+- MiniShell (parsing, execução de comandos, builtins, signals)
+- Cub3D (2D/3D, raycasting, eventos)
+- C++ (padrão **C++98**, OOP, STL, módulos 00–04)
+
+### 🌐 Desenvolvimento Web
+- HTML5, CSS3, JavaScript
+- Projetos full-stack: React, Node.js, Next.js (Programa Desenvolve)
+
+### 📚 Comunicação & Docência
+- Ensino de lógica e desenvolvimento para crianças (JS + React)
+- Experiência em fala em público, coordenação educacional e criação de conteúdo técnico e didático
 
 ---
 
-**Vamos nos conectar!**    [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/mendeslilian)
+## 🌱 O que estou explorando agora
+- C++ (módulos da 42)
+- Estruturas de dados, algoritmos e design de sistemas
+- GenAI para Devs e aplicações de IA
+- Projetos colaborativos e open-source
+- *Ansiedade do momento:* sempre tem um projeto chegando 😅
 
 ---
 
-##### 📊 Estatísticas GitHub
+## 🛠️ Tecnologias & Ferramentas
 
-<div>
-  <a href="https://github.com/LilianMS">
-    <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api?username=LilianMS&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-stats.vercel.app/api?username=LilianMS&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img src="https://github-readme-stats.vercel.app/api?username=LilianMS&show_icons=true" />
-    </picture>
-    <div>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilianMS&layout=compact&langs_count=16&theme=tokyonight"/>
-    </div>
-  </a>
-</div>
+### Linguagens
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B98-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### Sistemas & Ferramentas
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+### Formações
+#### Engenharia de Software:
+
+[![](https://img.shields.io/badge/%20São%20Paulo-000000?style=for-the-badge&logo=42&logoColor=white)](https://www.42sp.org.br/)
+
+#### Tecnologia em Análise e Desenvolvimento de Software:
+Fasul
+
+---
+
+## 🤝 Vamos nos conectar?
+
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/mendeslilian)
+
+---
+
+
 
 
 <img width=1000 src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
